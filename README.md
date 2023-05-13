@@ -1,3 +1,9 @@
+<div id="header" align="center">
+
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  
+</div>
+
 ## 📝 Biografía
 Estudiante de Informatica, Youtuber🎥y amante de la programación móvil!
 
@@ -5,9 +11,6 @@ Estudiante de Informatica, Youtuber🎥y amante de la programación móvil!
 
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tecnonew365&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tecnonew365&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 🚀 Proyectos
