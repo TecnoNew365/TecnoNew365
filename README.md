@@ -5,7 +5,7 @@
 </div>
 
 ## 📝 Biografía
-Estudiante de Informatica, Youtuber🎥y amante de la programación móvil!
+Soy Raul Alejandro Naranjo Albert, un apasionado desarrollador móvil con más de 6 años de experiencia en la industria. Desde que descubrí mi amor por la tecnología móvil, he estado desarrollando aplicaciones innovadoras y mejorando la calidad de vida de las personas a través de soluciones tecnológicas.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tecnonew365&theme=tokyonight)](https://git.io/streak-stats)
 
