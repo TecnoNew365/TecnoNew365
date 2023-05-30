@@ -30,7 +30,7 @@ Soy Raul Alejandro Naranjo Albert, un apasionado desarrollador móvil con más d
 - Twitter: [@raul_dev](https://twitter.com/raul_uci)
 
 ## 📊 Estadísticas de GitHub
-- Número de repositorios - 13
+- Número de repositorios - 15
 - Número de seguidores - 2
 
 ## 💬 Comunidad
