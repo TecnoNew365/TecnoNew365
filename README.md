@@ -1,40 +1,36 @@
+<h1 align="center">Hello World 👋, I'm Guillermo</h1>
+<h3 align="center">A passionate frontend developer from Cuba</h3>
+
 <div id="header" align="center">
 
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
 </div>
 
-## 📝 Biografía
-Soy Raul Alejandro Naranjo Albert, un apasionado desarrollador móvil con más de 6 años de experiencia en la industria. Desde que descubrí mi amor por la tecnología móvil, he estado desarrollando aplicaciones innovadoras y mejorando la calidad de vida de las personas a través de soluciones tecnológicas.
+- 🔭 I’m currently working on **Personal Projects**
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tecnonew365&theme=tokyonight)](https://git.io/streak-stats)
+- 🌱 I’m currently working with **Flutter**
 
----
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tecnonew365&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+- 📫 How to reach me **uncubanodev@gmail.com**
 
 
-## 🚀 Proyectos
-- ?
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tecnonew365&show_icons=true&locale=en&layout=compact" alt="tecnonew365" /></p>
 
-## 💻 Repositorios
-- ?
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tecnonew365&show_icons=true&locale=en" alt="tecnonew365" /></p>
 
-## 🔧 Habilidades Principales
-- Desarrollo de Aplicaciones Android Nativo - Java/Kotlin
-- Desarrollo de Aplicaciones Multiplataforma - Flutter (Dart)
-- Desarrollo de API Rest
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tecnonew365&" alt="tecnonew365" /></p>
 
-## 💬 Contacto
-- Correo electrónico: rnaranjoalbert@gmail.com
-- Sitio web: ?
-- Twitter: [@raul_dev](https://twitter.com/raul_uci)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tecnonew365" alt="tecnonew365" /></a> </p>
 
-## 📊 Estadísticas de GitHub
-- Número de repositorios - 15
-- Número de seguidores - 2
-
-## 💬 Comunidad
-- ?
-
-## 💡 Otra información
-- ?
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,git,cpp,css,docker,supabase,github,html,java,js,kotlin,php,linux,md,mysql,postgresql,sqlite,nodejs,postman,py,react,tailwind,ts,vscode&perline=14" />
+  </a>
+</p>
