@@ -20,7 +20,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tecnonew365&" alt="tecnonew365" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tecnonew365" alt="tecnonew365" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tecnonew365" alt="tecnonew365" /></a> </p>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
