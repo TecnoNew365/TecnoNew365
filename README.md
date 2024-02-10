@@ -1,4 +1,3 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <h1 align="center">Hello World 👋, I'm Raul Alejandro</h1>
 <h3 align="center">A passionate frontend developer from Cuba</h3>
 
@@ -35,5 +34,3 @@
     <img src="https://skillicons.dev/icons?i=flutter,dart,git,cpp,css,docker,supabase,github,html,java,js,kotlin,php,linux,md,mysql,postgresql,sqlite,nodejs,postman,py,react,tailwind,ts,vscode&perline=14" />
   </a>
 </p>
-<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="raul-alejandro-naranjo-albert-3813782b4" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://cu.linkedin.com/in/raul-alejandro-naranjo-albert-3813782b4?trk=profile-badge">Raul Alejandro Naranjo Albert</a></div>
-              
