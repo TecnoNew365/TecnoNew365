@@ -1,3 +1,4 @@
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <h1 align="center">Hello World 👋, I'm Raul Alejandro</h1>
 <h3 align="center">A passionate frontend developer from Cuba</h3>
 
