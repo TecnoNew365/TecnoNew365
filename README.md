@@ -14,13 +14,13 @@
 - 📫 How to reach me **uncubanodev@gmail.com**
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tecnonew365&show_icons=true&locale=en&layout=compact" alt="tecnonew365" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uncubanodev&show_icons=true&locale=en&layout=compact" alt="uncubanodev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tecnonew365&show_icons=true&locale=en" alt="tecnonew365" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uncubanodev&show_icons=true&locale=en" alt="uncubanodev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tecnonew365&" alt="tecnonew365" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uncubanodev&" alt="uncubanodev" /></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tecnonew365" alt="tecnonew365" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uncubanodev" alt="uncubanodev" /></a> </p>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
