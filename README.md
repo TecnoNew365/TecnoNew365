@@ -7,7 +7,7 @@
   
 </div>
 
-- 🔭 I’m currently working on **DClick Soluciones**
+- 🔭 I’m currently working on **Freelance**
 
 - 🌱 I’m currently working with **Flutter**
 
